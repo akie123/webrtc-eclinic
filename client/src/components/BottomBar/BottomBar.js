@@ -21,7 +21,7 @@ const BottomBar = ({
   );
 
   const closeTab = () => {
-    window.open("http://localhost:3000","_self")
+    window.open("https://eclinic-5s3f.onrender.com","_self")
   };
 
   return (
